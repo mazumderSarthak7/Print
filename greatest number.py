@@ -9,5 +9,5 @@ elif y>x & y>z:
     print(y)
 else:
     print(z)
-
+print("Bye")    
 
